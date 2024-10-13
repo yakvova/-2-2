@@ -1,0 +1,8 @@
+print ("Введите силу")
+f = float(input())
+print ("Введите ускорение")
+a = float(input())
+
+m = f/a
+print("Масса равна:")
+print(round(m,1))
