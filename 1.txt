@@ -6,5 +6,5 @@ t = int(input())
 v = float 
 
 v = s/t
-
+print("Скорость равна:")
 print(round(v,1))
