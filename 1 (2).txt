@@ -1,0 +1,10 @@
+print ("Введите расстояние(км)")
+s = int(input())
+print ("Введите время(ч)")
+t = int(input())
+
+v = float 
+
+v = s/t
+
+print(round(v,1))
