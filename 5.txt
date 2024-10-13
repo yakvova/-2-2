@@ -1,0 +1,8 @@
+print ("Введите массу")
+m = float(input())
+print ("Введите скорость")
+v = float(input())
+
+e = (m*v**2)/2
+print("Энергия равна:")
+print(round(e,1))
