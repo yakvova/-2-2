@@ -1,0 +1,11 @@
+print ("Введите массу")
+m = float(input())
+print ("Введите высоту")
+h = float(input())
+print ("Введите ускорение свободного падения")
+g = float(input())
+
+
+e = m*g*h
+print("Энергия равна:")
+print(round(e,1))
