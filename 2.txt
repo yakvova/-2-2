@@ -1,9 +1,7 @@
 print ("Введите силу")
-f = int(input())
+f = float(input())
 print ("Введите ускорение")
-a = int(input())
-
-m = float 
+a = float(input())
 
 m = f/a
 print("Масса равна:")
