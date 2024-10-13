@@ -1,0 +1,10 @@
+print ("Введите массу")
+m = float(input())
+print ("Введите удельную теплоемкость")
+c = float(input())
+print ("Введите изменение температуры")
+t = float(input())
+
+q = m*c*t
+print("Теплота равна:")
+print(round(q,1))
