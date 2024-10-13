@@ -1,0 +1,9 @@
+print ("Введите силу")
+f = float(input())
+print ("Введите площадь")
+s = float(input())
+
+
+p = f/s
+print("Давление равно:")
+print(round(p,1))
