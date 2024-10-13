@@ -1,9 +1,7 @@
 print ("Введите расстояние(км)")
-s = int(input())
+s = float(input())
 print ("Введите время(ч)")
-t = int(input())
-
-v = float 
+t = float(input())
 
 v = s/t
 print("Скорость равна:")
