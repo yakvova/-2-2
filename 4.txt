@@ -1,0 +1,8 @@
+print ("Введите силу")
+f = float(input())
+print ("Введите рассстояние")
+s = float(input())
+
+h = f*s
+print("Работа равна:")
+print(round(h,1))
