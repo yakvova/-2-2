@@ -1,0 +1,7 @@
+print ("Введите период")
+t = float(input())
+
+
+q = 1/t
+print("Частота равна:")
+print(round(q,1))
